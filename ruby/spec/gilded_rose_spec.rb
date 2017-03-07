@@ -1,4 +1,4 @@
-require './lib/gilded_rose'
+require './lib/gilded_rose2'
 
 describe GildedRose do
 
